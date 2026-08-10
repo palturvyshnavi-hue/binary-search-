@@ -1,0 +1,23 @@
+```text
+Binary Search Testbench
+-----------------------
+Test 1: Search 10
+Expected: 0
+Actual: 0
+PASS
+
+Test 2: Search 30
+Expected: 2
+Actual: 2
+PASS
+
+Test 3: Search 50
+Expected: 4
+Actual: 4
+PASS
+
+Test 4: Search 25
+Expected: -1
+Actual: -1
+PASS
+```
